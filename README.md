@@ -1,8 +1,4 @@
-Here is a clean, single-file `README.md` — copy and paste this directly into your GitHub repo to clearly present your YOLOv8 custom lung cancer segmentation project:
 
----
-
-````markdown
 # 🧠 Lung Cancer Segmentation with YOLOv8
 
 This project demonstrates lung cancer segmentation using a custom-trained YOLOv8 model. It uses the Ultralytics YOLOv8 segmentation framework to detect and visualize cancer regions in medical images.
@@ -100,9 +96,4 @@ This project is intended for educational and research purposes only.
 
 Feel free to open an issue or contact the maintainer.
 
-```
-
----
-
-Let me know if you'd like a matching `predict_and_save.py` script to include, or a badge/header design for GitHub styling.
 ```
